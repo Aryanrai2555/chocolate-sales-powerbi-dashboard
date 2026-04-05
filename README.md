@@ -38,4 +38,4 @@ This project analyzes chocolate sales data to uncover key insights related to re
 ## 🚀 Author
 
 Aryan Rai
-![Dashboard](image-name.png)
+
