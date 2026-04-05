@@ -20,15 +20,15 @@ This project analyzes chocolate sales data to uncover key insights related to re
 
 ## 📊 Dashboard Preview
 
-![Executive Summary](Executive Summary.png)
+![Executive Summary](ExecutiveSummary.png)
 
-![Product Analysis](Product Analysis.png)
+![Product Analysis](Product_Analysis.png)
 
-![Salesperson Analysis](Sales Person Analysis.png)
+![Salesperson Analysis](Sales_Person_Analysis.png)
 
-![Geography Analysis](Geography Analysis.png)
+![Geography Analysis](Geography_Analysis.png)
 
-![Calendar Analysis](Calendar Analysis.png)
+![Calendar Analysis](Calendar_Analysis.png)
 ## 📈 Features
 
 * Executive Summary
